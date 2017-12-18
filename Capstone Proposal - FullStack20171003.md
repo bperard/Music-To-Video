@@ -66,3 +66,42 @@ Spotify account content
 * Develop "Flappy Bird Part II: Electric Boogaloo" during breaks, make millions, pay someone else to do my coding, win
   Survivor All-Stars, use reality-television stardom as platform for election to starring role on current season of
   America, use season as president to gain invitation to Dancing With the Stars, trip on over-waxed floor, sue ABC
+
+#
+#
+# It's Alive (planning)
+#
+
+Track Model
+* Artist
+  * featured if listed able to parse from main (key?)
+* Title
+* Album (key)
+* Spotify ID
+* Video(s) (key/array)
+* Genre
+* Length
+
+Album
+* Title
+* Artist (key)
+  * features lists compilation artists
+* Release date
+* Cover Art
+
+## Style
+
+Intro Page
+* Buggles/MTV homage
+  * multiple tv/pc screen with multiple (clips?) from versions of "Video Killed"(linked from YouTube) playing
+  * lowest quality, on small screens, clicking on screen unmutes the audio and mutes any other page audio
+  * can rotate videos from top weekly playlist onto intro page
+* Initial playlists
+  * MTV first videos playlist (other firsts good)
+  * Video countdown playlist archive(either all, or chosen years)
+  * Video killed the radio star playlist
+    * Buggles, PUSA, Check It Out, VKTRS, Pomplamoose
+  * My top music videos
+* Top Playlist Jockey
+  * Profiles
+  * Top playlists earn positions
